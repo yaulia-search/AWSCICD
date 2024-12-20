@@ -6,7 +6,7 @@ on: push
 env:
   applicationfolder: spring-boot-hello-world-example
   AWS_REGION: us-west-2
-  S3BUCKET: codedeploystack-github-webappdeploymentbucket-hxoy7zpcsewb
+  S3BUCKET: codedeploystack-githubv1-webappdeploymentbucket-dmsdtttnatzr 
 
 
 jobs:
