@@ -8,3 +8,4 @@ aws s3 cp s3://codedeploystack-githubv1-webappdeploymentbucket-dmsdtttnatzr/Spri
 
 # Ensure the ownership permissions are correct.
 chown -R tomcat:tomcat /usr/local/tomcat9/webapps
+ 
